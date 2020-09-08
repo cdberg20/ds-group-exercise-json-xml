@@ -7,7 +7,6 @@
 				"Enrollment":[
 					{
 						"enrollmentId" : 3003,
-						"courseId" : "BUSX2001",
 						"startDate" : "2020-08-31",
 						"grade" : ""
 						"Course":[
@@ -18,39 +17,39 @@
 								"enrollmentCap" : 45,
 							}
 						]
-						},
-						{
+					},
+					{
 							"enrollmentId" : 3001,
-							"studentId" : 1001,
-							"courseId" : "BUSX2003",
 							"startDate" : "2020-08-31",
 							"grade" : ""
 							"Course":[
 								{
 									"courseId" : "BUSX2003",
-									"startDate" : "2020-08-31",
+									"name" : "Spreadsheet Modeling",
 									"credits" : 2,
+									"enrollmentCap" : 55,
 								}
 							]
-						},
-						{
+					},
+					{
 							"enrollmentId" : 3002,
-							"courseId" : "BUSX2004",
 							"startDate" : "2020-01-12",
 							"grade" : "A"
 							"Course":[
 									{
 										"courseId" : "BUSX2004",
-										"startDate" : "2020-01-12",
+										"name" : "Pricing Management",
 										"credits" : 2,
+										"enrollmentCap" : 50,
 									}
 								]
-							}
 						}
+
 					]
 				}
 			]
 		}
+
 
 {
 	"Student":[
@@ -61,7 +60,6 @@
 				"Enrollment":[
 				{
 					"enrollmentId" : 3004,
-					"courseId" : "BUSX2001",
 					"startDate" : "2020-08-31",
 					"grade" : ""
 					"Course":[
@@ -75,14 +73,12 @@
 					},
 					{
 						"enrollmentId" : 3005,
-						"studentId" : 1002,
-						"courseId" : "BUSX2002",
 						"startDate" : "2020-08-31",
 						"grade" : ""
 						"Course" : [
 								{
-									"courseId" : "BUSX2003",
-									"startDate" : "2020-08-31",
+									"courseId" : "BUSX2002",
+									"name" : "Applied Statistics",
 									"credits" : 2,
 									"enrollmentCap" : 20,
 								}
@@ -90,7 +86,6 @@
 						},
 					{
 						"enrollmentId" : 3006,
-						"courseId" : "BUSX2003",
 						"startDate" : "2020-08-31",
 						"grade" : ""
 						"Course" : [
@@ -104,21 +99,23 @@
 						},
 					{
 						"enrollmentId" : 3007,
-						"courseId" : "BUSX2004",
 						"startDate" : "2020-01-12",
 						"grade" : "B-"
 						"Course" : [
 							{
-								"courseId" : "BUSX2002",
-								"name" : "Applied Statistics",
+								"courseId" : "BUSX2004",
+								"name" : "Pricing Management",
 								"credits" : 2,
-								"enrollmentCap" : 20,
+								"enrollmentCap" : 50,
 							}
 						]
 					}
 				]
 			}
-		}
+		]
+}
+
+
 {
 	"Student" : [
 		{
@@ -128,7 +125,6 @@
 			"Enrollment" : [
 				{
 					"enrollmentId" : 3009,
-					"courseId" : "BUSX2001",
 					"startDate" : "2020-08-31",
 					"grade" : ""
 					"Course" : [
@@ -142,7 +138,6 @@
 				},
 				{
 					"enrollmentId" : 3008,
-					"courseId" : "BUSX2002",
 					"startDate" : "2020-08-31",
 					"grade" : ""
 					"Course" : [
