@@ -8,7 +8,7 @@
 					{
 						"enrollmentId" : 3003,
 						"startDate" : "2020-08-31",
-						"grade" : ""
+						"grade" : "",
 						"Course":[
 							{
 								"courseId" : "BUSX2001",
@@ -21,7 +21,7 @@
 					{
 							"enrollmentId" : 3001,
 							"startDate" : "2020-08-31",
-							"grade" : ""
+							"grade" : "",
 							"Course":[
 								{
 									"courseId" : "BUSX2003",
@@ -34,7 +34,7 @@
 					{
 							"enrollmentId" : 3002,
 							"startDate" : "2020-01-12",
-							"grade" : "A"
+							"grade" : "A",
 							"Course":[
 									{
 										"courseId" : "BUSX2004",
@@ -60,7 +60,7 @@
 				{
 					"enrollmentId" : 3004,
 					"startDate" : "2020-08-31",
-					"grade" : ""
+					"grade" : "",
 					"Course":[
 						{
 							"courseId" : "BUSX2001",
@@ -73,8 +73,8 @@
 					{
 						"enrollmentId" : 3005,
 						"startDate" : "2020-08-31",
-						"grade" : ""
-						"Course" : [
+						"grade" : "",
+						"Course":[
 								{
 									"courseId" : "BUSX2002",
 									"name" : "Applied Statistics",
@@ -86,8 +86,8 @@
 					{
 						"enrollmentId" : 3006,
 						"startDate" : "2020-08-31",
-						"grade" : ""
-						"Course" : [
+						"grade" : "",
+						"Course":[
 							{
 								"courseId" : "BUSX2003",
 								"name" : "Spreadsheet Modeling",
@@ -99,8 +99,8 @@
 					{
 						"enrollmentId" : 3007,
 						"startDate" : "2020-01-12",
-						"grade" : "B-"
-						"Course" : [
+						"grade" : "B-",
+						"Course":[
 							{
 								"courseId" : "BUSX2004",
 								"name" : "Pricing Management",
@@ -125,8 +125,8 @@
 				{
 					"enrollmentId" : 3009,
 					"startDate" : "2020-08-31",
-					"grade" : ""
-					"Course" : [
+					"grade" : "",
+					"Course":[
 						{
 							"courseId" : "BUSX2001",
 							"name" : "Economics",
@@ -138,8 +138,8 @@
 				{
 					"enrollmentId" : 3008,
 					"startDate" : "2020-08-31",
-					"grade" : ""
-					"Course" : [
+					"grade" : "",
+					"Course":[
 						{
 							"courseId" : "BUSX2002",
 							"name" : "Applied Statistics",
