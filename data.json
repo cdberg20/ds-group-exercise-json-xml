@@ -48,11 +48,10 @@
 					]
 				}
 			]
-		}
+	},
 
 
-{
-	"Student":[
+{"Student":[
 			{
 				"studentId" : 1002,
 				"name" : "Emilia Harris",
@@ -113,7 +112,7 @@
 				]
 			}
 		]
-}
+},
 
 
 {
