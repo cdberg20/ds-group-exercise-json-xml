@@ -5,3 +5,4 @@ From a human perspective, JSON is easier to read. We can clearly see what each p
 JSON is easier for a computer to use as well because it has a lighter format compared to XML, all computers have libraries to read JSON, and it can be natively read by JavaScript (Bolton).
 
 
+Bolton, D. (2019, January 25). XML vs. JSON: What's the Difference for Developers? Retrieved September 08, 2020, from https://insights.dice.com/2019/01/25/xml-vs-json-difference-developers/
